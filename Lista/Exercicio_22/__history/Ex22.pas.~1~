@@ -1,0 +1,69 @@
+unit Ex22;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TForm22 = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    Button1: TButton;
+    Panel1: TPanel;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form22: TForm22;
+
+implementation
+  uses Math;
+
+{$R *.dfm}
+
+procedure TForm22.Button1Click(Sender: TObject);
+var
+  xValorCusto: array[1..5] of double;
+  xValorVenda: array[1..5] of double;
+  xResultado, xMediaVenda, xMediaCusto: double;
+  xContador, xQuantidade: integer;
+
+begin
+  xContador:=0;
+  xQuantidade:= StrToInt(Edit1.Text);
+
+  repeat
+    xResultado:= 0;
+    xValorVenda[xContador]:= StrToFloat(inputbox('Valor de venda',
+    'Informe o valor de venda do produto',''));
+    xValorCusto[xContador]:= StrToFloat(inputbox('Valor de custo',
+    'Informe o valor de custo do produto',''));
+    xResultado:= xValorVenda[xContador] - xValorCusto[xContador];
+
+    if xResultado = 0 then
+      ShowMessage('Este produto está no empate')
+      else if xResultado > 0 then
+           ShowMessage('Este produto está no LUCRO')
+           else ShowMessage('Este produto está no PREJUÍZO');
+    Inc(xContador);
+  until xContador = xQuantidade;
+
+  ShowMessage('Média de valor de venda dos produtos : '
+  +FloatToStr(Sum(xValorVenda)/xContador)+#13
+  +'Média de valor de custo dos produtos: '
+  +FloatToStr(Sum(xValorCusto)/xContador));
+  Sum(xValorVenda);
+  Sum(xValorCusto);
+
+
+
+
+end;
+
+end.

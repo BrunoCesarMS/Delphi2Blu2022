@@ -1,0 +1,40 @@
+unit Ex9;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm9 = class(TForm)
+    Label1: TLabel;
+    Edit1: TEdit;
+    Label2: TLabel;
+    Edit2: TEdit;
+    procedure Edit2Enter(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form9: TForm9;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm9.Edit2Enter(Sender: TObject);
+var
+  xDeposito, xValorTotal: double;
+
+begin
+  xDeposito:= StrToFloat(Edit1.Text);
+  xValorTotal:= xDeposito + (xDeposito * 0.0007);
+  Edit2.Text:= FloatToStr(xValorTotal);
+
+end;
+
+end.

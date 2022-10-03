@@ -1,0 +1,45 @@
+unit Ex10;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TForm11 = class(TForm)
+    Memo1: TMemo;
+    Edit1: TEdit;
+    Label1: TLabel;
+    Button1: TButton;
+    Panel1: TPanel;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form11: TForm11;
+
+implementation
+
+{$R *.dfm}
+
+
+
+procedure TForm11.Button1Click(Sender: TObject);
+var
+  xParcelas, xValorProduto: double;
+  i, x: integer;
+begin
+  xValorProduto:= StrToFloat(Edit1.Text);
+  xParcelas:= xValorProduto / 5;
+
+  for i := 1 to 5 do
+    Memo1.Lines.Add('Parcela '+IntToStr(i)+ ': '+FormatFloat('#.00',xParcelas));
+
+end;
+
+end.

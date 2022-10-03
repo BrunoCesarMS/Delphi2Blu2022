@@ -1,0 +1,70 @@
+unit Ex19;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TForm19 = class(TForm)
+    Button1: TButton;
+    Edit1: TEdit;
+    Label1: TLabel;
+    RadioGroup1: TRadioGroup;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form19: TForm19;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm19.Button1Click(Sender: TObject);
+var
+  xVetor1: Array[1..5] of string;
+  xVetor2: Array[1..5] of string;
+  xNome, xGenero: string;
+  xContador, xHomem, xMulher: integer;
+
+begin
+  xContador:= 0;
+  xHomem:= 0;
+  xMulher:= 0;
+
+  for xContador := 1 to 5 do
+    begin
+      xVetor1[xContador]:= Edit1.Text;
+      case RadioGroup1.ItemIndex of 0:
+        begin
+          xVetor2[xContador]:= 'Homem';
+          inc(xHomem)
+        end;
+        1:
+        begin
+          xVetor2[xContador]:= 'Mulher';
+          inc(xMulher)
+        end;
+
+      end;
+    ShowMessage(xVetor1[xContador] + ' é ' + xVetor2[xContador])
+
+    end;
+
+    ShowMessage('Há ' + IntToStr(xHomem) + ' e ' + IntToStr(xMulher)
+    + ' mulheres no total.')
+
+
+
+
+end;
+
+
+
+end.

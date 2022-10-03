@@ -1,0 +1,101 @@
+object Form6: TForm6
+  Left = 0
+  Top = 0
+  Caption = 'Form6'
+  ClientHeight = 181
+  ClientWidth = 414
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 16
+  object Label1: TLabel
+    Left = 24
+    Top = 64
+    Width = 42
+    Height = 16
+    Caption = 'Valor A'
+  end
+  object Label2: TLabel
+    Left = 25
+    Top = 107
+    Width = 41
+    Height = 16
+    Caption = 'Valor B'
+  end
+  object Label3: TLabel
+    Left = 249
+    Top = 64
+    Width = 42
+    Height = 16
+    Caption = 'Valor A'
+  end
+  object Label4: TLabel
+    Left = 250
+    Top = 107
+    Width = 41
+    Height = 16
+    Caption = 'Valor B'
+  end
+  object Button1: TButton
+    Left = 162
+    Top = 79
+    Width = 81
+    Height = 25
+    Caption = 'Trocar Posi'#231#227'o'
+    TabOrder = 2
+    OnClick = Button1Click
+  end
+  object Edit1: TEdit
+    Left = 64
+    Top = 61
+    Width = 92
+    Height = 24
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 64
+    Top = 104
+    Width = 92
+    Height = 24
+    TabOrder = 1
+    Text = 'Edit2'
+  end
+  object Edit3: TEdit
+    Left = 289
+    Top = 61
+    Width = 92
+    Height = 24
+    ReadOnly = True
+    TabOrder = 3
+    Text = 'Edit3'
+  end
+  object Edit4: TEdit
+    Left = 289
+    Top = 104
+    Width = 92
+    Height = 24
+    ReadOnly = True
+    TabOrder = 4
+    Text = 'Edit4'
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 417
+    Height = 41
+    Caption = 'Troca de Posi'#231#227'o'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 5
+  end
+end

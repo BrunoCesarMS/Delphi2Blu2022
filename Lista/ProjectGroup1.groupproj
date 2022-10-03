@@ -1,0 +1,348 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C7E13A8B-660B-4B03-AB49-D3DC39B7B0B5}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Exercicio_1\Project_Ex1.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_2\Project_Ex2.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_3\Project_Ex3.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_4\Project_Ex4.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_5\Project_Ex5.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_6\Project_Ex6.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_7\Project_Ex7.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_8\Project_Ex8.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_9\Project_Ex9.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_10\Project_Ex10.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_10\Project_Ex11.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_12\Project_Ex12.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_13\Project_Ex13.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_14\Project_Ex14.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_15\Project_Ex15.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_16\Project_Ex16.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_17\Project_Ex17.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_18\Project_Ex18.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_19\Project_Ex19.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_20\Project_Ex20.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_21\Project_Ex21.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_22\Project_Ex22.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_23\Project_Ex23.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_24\Project_Ex24.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_25\Project_Ex25.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_26\Project_Ex26.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Exercicio_27\Project_Ex27.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Project_Ex1">
+        <MSBuild Projects="Exercicio_1\Project_Ex1.dproj"/>
+    </Target>
+    <Target Name="Project_Ex1:Clean">
+        <MSBuild Projects="Exercicio_1\Project_Ex1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex1:Make">
+        <MSBuild Projects="Exercicio_1\Project_Ex1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex2">
+        <MSBuild Projects="Exercicio_2\Project_Ex2.dproj"/>
+    </Target>
+    <Target Name="Project_Ex2:Clean">
+        <MSBuild Projects="Exercicio_2\Project_Ex2.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex2:Make">
+        <MSBuild Projects="Exercicio_2\Project_Ex2.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex3">
+        <MSBuild Projects="Exercicio_3\Project_Ex3.dproj"/>
+    </Target>
+    <Target Name="Project_Ex3:Clean">
+        <MSBuild Projects="Exercicio_3\Project_Ex3.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex3:Make">
+        <MSBuild Projects="Exercicio_3\Project_Ex3.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex4">
+        <MSBuild Projects="Exercicio_4\Project_Ex4.dproj"/>
+    </Target>
+    <Target Name="Project_Ex4:Clean">
+        <MSBuild Projects="Exercicio_4\Project_Ex4.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex4:Make">
+        <MSBuild Projects="Exercicio_4\Project_Ex4.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex5">
+        <MSBuild Projects="Exercicio_5\Project_Ex5.dproj"/>
+    </Target>
+    <Target Name="Project_Ex5:Clean">
+        <MSBuild Projects="Exercicio_5\Project_Ex5.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex5:Make">
+        <MSBuild Projects="Exercicio_5\Project_Ex5.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex6">
+        <MSBuild Projects="Exercicio_6\Project_Ex6.dproj"/>
+    </Target>
+    <Target Name="Project_Ex6:Clean">
+        <MSBuild Projects="Exercicio_6\Project_Ex6.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex6:Make">
+        <MSBuild Projects="Exercicio_6\Project_Ex6.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex7">
+        <MSBuild Projects="Exercicio_7\Project_Ex7.dproj"/>
+    </Target>
+    <Target Name="Project_Ex7:Clean">
+        <MSBuild Projects="Exercicio_7\Project_Ex7.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex7:Make">
+        <MSBuild Projects="Exercicio_7\Project_Ex7.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex8">
+        <MSBuild Projects="Exercicio_8\Project_Ex8.dproj"/>
+    </Target>
+    <Target Name="Project_Ex8:Clean">
+        <MSBuild Projects="Exercicio_8\Project_Ex8.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex8:Make">
+        <MSBuild Projects="Exercicio_8\Project_Ex8.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex9">
+        <MSBuild Projects="Exercicio_9\Project_Ex9.dproj"/>
+    </Target>
+    <Target Name="Project_Ex9:Clean">
+        <MSBuild Projects="Exercicio_9\Project_Ex9.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex9:Make">
+        <MSBuild Projects="Exercicio_9\Project_Ex9.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex10">
+        <MSBuild Projects="Exercicio_10\Project_Ex10.dproj"/>
+    </Target>
+    <Target Name="Project_Ex10:Clean">
+        <MSBuild Projects="Exercicio_10\Project_Ex10.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex10:Make">
+        <MSBuild Projects="Exercicio_10\Project_Ex10.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex11">
+        <MSBuild Projects="Exercicio_10\Project_Ex11.dproj"/>
+    </Target>
+    <Target Name="Project_Ex11:Clean">
+        <MSBuild Projects="Exercicio_10\Project_Ex11.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex11:Make">
+        <MSBuild Projects="Exercicio_10\Project_Ex11.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex12">
+        <MSBuild Projects="Exercicio_12\Project_Ex12.dproj"/>
+    </Target>
+    <Target Name="Project_Ex12:Clean">
+        <MSBuild Projects="Exercicio_12\Project_Ex12.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex12:Make">
+        <MSBuild Projects="Exercicio_12\Project_Ex12.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex13">
+        <MSBuild Projects="Exercicio_13\Project_Ex13.dproj"/>
+    </Target>
+    <Target Name="Project_Ex13:Clean">
+        <MSBuild Projects="Exercicio_13\Project_Ex13.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex13:Make">
+        <MSBuild Projects="Exercicio_13\Project_Ex13.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex14">
+        <MSBuild Projects="Exercicio_14\Project_Ex14.dproj"/>
+    </Target>
+    <Target Name="Project_Ex14:Clean">
+        <MSBuild Projects="Exercicio_14\Project_Ex14.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex14:Make">
+        <MSBuild Projects="Exercicio_14\Project_Ex14.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex15">
+        <MSBuild Projects="Exercicio_15\Project_Ex15.dproj"/>
+    </Target>
+    <Target Name="Project_Ex15:Clean">
+        <MSBuild Projects="Exercicio_15\Project_Ex15.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex15:Make">
+        <MSBuild Projects="Exercicio_15\Project_Ex15.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex16">
+        <MSBuild Projects="Exercicio_16\Project_Ex16.dproj"/>
+    </Target>
+    <Target Name="Project_Ex16:Clean">
+        <MSBuild Projects="Exercicio_16\Project_Ex16.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex16:Make">
+        <MSBuild Projects="Exercicio_16\Project_Ex16.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex17">
+        <MSBuild Projects="Exercicio_17\Project_Ex17.dproj"/>
+    </Target>
+    <Target Name="Project_Ex17:Clean">
+        <MSBuild Projects="Exercicio_17\Project_Ex17.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex17:Make">
+        <MSBuild Projects="Exercicio_17\Project_Ex17.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex18">
+        <MSBuild Projects="Exercicio_18\Project_Ex18.dproj"/>
+    </Target>
+    <Target Name="Project_Ex18:Clean">
+        <MSBuild Projects="Exercicio_18\Project_Ex18.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex18:Make">
+        <MSBuild Projects="Exercicio_18\Project_Ex18.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex19">
+        <MSBuild Projects="Exercicio_19\Project_Ex19.dproj"/>
+    </Target>
+    <Target Name="Project_Ex19:Clean">
+        <MSBuild Projects="Exercicio_19\Project_Ex19.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex19:Make">
+        <MSBuild Projects="Exercicio_19\Project_Ex19.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex20">
+        <MSBuild Projects="Exercicio_20\Project_Ex20.dproj"/>
+    </Target>
+    <Target Name="Project_Ex20:Clean">
+        <MSBuild Projects="Exercicio_20\Project_Ex20.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex20:Make">
+        <MSBuild Projects="Exercicio_20\Project_Ex20.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex21">
+        <MSBuild Projects="Exercicio_21\Project_Ex21.dproj"/>
+    </Target>
+    <Target Name="Project_Ex21:Clean">
+        <MSBuild Projects="Exercicio_21\Project_Ex21.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex21:Make">
+        <MSBuild Projects="Exercicio_21\Project_Ex21.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex22">
+        <MSBuild Projects="Exercicio_22\Project_Ex22.dproj"/>
+    </Target>
+    <Target Name="Project_Ex22:Clean">
+        <MSBuild Projects="Exercicio_22\Project_Ex22.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex22:Make">
+        <MSBuild Projects="Exercicio_22\Project_Ex22.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex23">
+        <MSBuild Projects="Exercicio_23\Project_Ex23.dproj"/>
+    </Target>
+    <Target Name="Project_Ex23:Clean">
+        <MSBuild Projects="Exercicio_23\Project_Ex23.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex23:Make">
+        <MSBuild Projects="Exercicio_23\Project_Ex23.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex24">
+        <MSBuild Projects="Exercicio_24\Project_Ex24.dproj"/>
+    </Target>
+    <Target Name="Project_Ex24:Clean">
+        <MSBuild Projects="Exercicio_24\Project_Ex24.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex24:Make">
+        <MSBuild Projects="Exercicio_24\Project_Ex24.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex25">
+        <MSBuild Projects="Exercicio_25\Project_Ex25.dproj"/>
+    </Target>
+    <Target Name="Project_Ex25:Clean">
+        <MSBuild Projects="Exercicio_25\Project_Ex25.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex25:Make">
+        <MSBuild Projects="Exercicio_25\Project_Ex25.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex26">
+        <MSBuild Projects="Exercicio_26\Project_Ex26.dproj"/>
+    </Target>
+    <Target Name="Project_Ex26:Clean">
+        <MSBuild Projects="Exercicio_26\Project_Ex26.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex26:Make">
+        <MSBuild Projects="Exercicio_26\Project_Ex26.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project_Ex27">
+        <MSBuild Projects="Exercicio_27\Project_Ex27.dproj"/>
+    </Target>
+    <Target Name="Project_Ex27:Clean">
+        <MSBuild Projects="Exercicio_27\Project_Ex27.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_Ex27:Make">
+        <MSBuild Projects="Exercicio_27\Project_Ex27.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Project_Ex1;Project_Ex2;Project_Ex3;Project_Ex4;Project_Ex5;Project_Ex6;Project_Ex7;Project_Ex8;Project_Ex9;Project_Ex10;Project_Ex11;Project_Ex12;Project_Ex13;Project_Ex14;Project_Ex15;Project_Ex16;Project_Ex17;Project_Ex18;Project_Ex19;Project_Ex20;Project_Ex21;Project_Ex22;Project_Ex23;Project_Ex24;Project_Ex25;Project_Ex26;Project_Ex27"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Project_Ex1:Clean;Project_Ex2:Clean;Project_Ex3:Clean;Project_Ex4:Clean;Project_Ex5:Clean;Project_Ex6:Clean;Project_Ex7:Clean;Project_Ex8:Clean;Project_Ex9:Clean;Project_Ex10:Clean;Project_Ex11:Clean;Project_Ex12:Clean;Project_Ex13:Clean;Project_Ex14:Clean;Project_Ex15:Clean;Project_Ex16:Clean;Project_Ex17:Clean;Project_Ex18:Clean;Project_Ex19:Clean;Project_Ex20:Clean;Project_Ex21:Clean;Project_Ex22:Clean;Project_Ex23:Clean;Project_Ex24:Clean;Project_Ex25:Clean;Project_Ex26:Clean;Project_Ex27:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Project_Ex1:Make;Project_Ex2:Make;Project_Ex3:Make;Project_Ex4:Make;Project_Ex5:Make;Project_Ex6:Make;Project_Ex7:Make;Project_Ex8:Make;Project_Ex9:Make;Project_Ex10:Make;Project_Ex11:Make;Project_Ex12:Make;Project_Ex13:Make;Project_Ex14:Make;Project_Ex15:Make;Project_Ex16:Make;Project_Ex17:Make;Project_Ex18:Make;Project_Ex19:Make;Project_Ex20:Make;Project_Ex21:Make;Project_Ex22:Make;Project_Ex23:Make;Project_Ex24:Make;Project_Ex25:Make;Project_Ex26:Make;Project_Ex27:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
