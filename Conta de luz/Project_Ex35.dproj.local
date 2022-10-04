@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/03 21:03:55.000.033,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:09:22.000.612,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\Conta de luz\Ex35.dfm</Transaction>
+    <Transaction>2022/10/03 21:09:22.000.612,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\Conta de luz\Ex35.pas</Transaction>
+    <Transaction>2022/10/03 21:09:34.000.554,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\bcmsilva\Documents\Delphi2Blu2022\Conta de luz\Project_Ex35.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
