@@ -14,6 +14,8 @@ type
     Button1: TButton;
     Label2: TLabel;
     Panel1: TPanel;
+    Label3: TLabel;
+    Edit2: TEdit;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
@@ -33,24 +35,34 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 var
-  xConsumoKWH, xValorConta: double;
+  xConsumoKWH, xValorConta, xDesconto: double;
 
 begin
   xConsumoKWH:= StrToFloat(Edit1.Text);
+  xDesconto  := StrToFloat(Edit2.text);
   case TipoCliente.ItemIndex of
     0:
     begin
-      xValorConta:= xConsumoKWH * 0.60
+      xValorConta:= xConsumoKWH * 0.60;
+      xValorConta:= xValorConta - xDesconto
     end;
 
     1:
     begin
-      xValorConta:= xConsumoKWH * 0.48
+      xValorConta:= xConsumoKWH * 0.48;
+      xValorConta:= xValorConta - xDesconto
     end;
 
     2:
     begin
-      xValorConta:= xConsumoKWH * 1.29
+      xValorConta:= xConsumoKWH * 1.29;
+      xValorConta:= xValorConta - xDesconto
+    end;
+
+    3:
+    begin
+      xValorConta:= xConsumoKWH * 2.18;
+      xValorConta:= xValorConta - xDesconto
     end;
 
   end;

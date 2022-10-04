@@ -2,7 +2,7 @@ object Form1: TForm1
   Left = 13
   Top = 0
   Caption = 'C'#225'lculo Conta de Luz'
-  ClientHeight = 277
+  ClientHeight = 294
   ClientWidth = 278
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -33,8 +33,15 @@ object Form1: TForm1
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object Label3: TLabel
+    Left = 24
+    Top = 99
+    Width = 90
+    Height = 13
+    Caption = 'Informar Desconto'
+  end
   object Edit1: TEdit
-    Left = 109
+    Left = 120
     Top = 69
     Width = 116
     Height = 21
@@ -42,19 +49,20 @@ object Form1: TForm1
   end
   object TipoCliente: TRadioGroup
     Left = 40
-    Top = 104
+    Top = 136
     Width = 185
     Height = 65
     Caption = 'Tipo de Cliente'
     Items.Strings = (
       'Residencial'
       'Comercial'
-      'Industrial')
+      'Industrial'
+      'Fazenda')
     TabOrder = 1
   end
   object Button1: TButton
-    Left = 88
-    Top = 184
+    Left = 96
+    Top = 216
     Width = 75
     Height = 25
     Caption = 'Calcular'
@@ -75,6 +83,12 @@ object Form1: TForm1
     Font.Style = [fsBold]
     ParentFont = False
     TabOrder = 3
-    ExplicitWidth = 329
+  end
+  object Edit2: TEdit
+    Left = 120
+    Top = 96
+    Width = 116
+    Height = 21
+    TabOrder = 4
   end
 end
