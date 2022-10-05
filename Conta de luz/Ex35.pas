@@ -43,25 +43,25 @@ begin
   case TipoCliente.ItemIndex of
     0:
     begin
-      xValorConta:= xConsumoKWH * 0.60;
+      xValorConta:= xConsumoKWH * 0.80;
       xValorConta:= xValorConta - xDesconto
     end;
 
     1:
     begin
-      xValorConta:= xConsumoKWH * 0.48;
+      xValorConta:= xConsumoKWH * 0.68;
       xValorConta:= xValorConta - xDesconto
     end;
 
     2:
     begin
-      xValorConta:= xConsumoKWH * 1.29;
+      xValorConta:= xConsumoKWH * 1.49;
       xValorConta:= xValorConta - xDesconto
     end;
 
     3:
     begin
-      xValorConta:= xConsumoKWH * 2.18;
+      xValorConta:= xConsumoKWH * 3.18;
       xValorConta:= xValorConta - xDesconto
     end;
 
@@ -71,5 +71,6 @@ begin
   +FormatFloat('###,###,###.00',xValorConta));
 
 end;
+
 
 end.

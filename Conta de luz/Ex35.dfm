@@ -23,8 +23,8 @@ object Form1: TForm1
   end
   object Label2: TLabel
     Left = 24
-    Top = 240
-    Width = 4
+    Top = 256
+    Width = 44
     Height = 16
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -51,14 +51,14 @@ object Form1: TForm1
     Left = 40
     Top = 136
     Width = 185
-    Height = 65
+    Height = 74
     Caption = 'Tipo de Cliente'
     Items.Strings = (
       'Residencial'
       'Comercial'
       'Industrial'
       'Fazenda')
-    TabOrder = 1
+    TabOrder = 2
   end
   object Button1: TButton
     Left = 96
@@ -66,7 +66,7 @@ object Form1: TForm1
     Width = 75
     Height = 25
     Caption = 'Calcular'
-    TabOrder = 2
+    TabOrder = 3
     OnClick = Button1Click
   end
   object Panel1: TPanel
@@ -82,13 +82,13 @@ object Form1: TForm1
     Font.Name = 'Tahoma'
     Font.Style = [fsBold]
     ParentFont = False
-    TabOrder = 3
+    TabOrder = 4
   end
   object Edit2: TEdit
     Left = 120
     Top = 96
     Width = 116
     Height = 21
-    TabOrder = 4
+    TabOrder = 1
   end
 end
