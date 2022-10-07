@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/05 19:45:03.000.469,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 20:18:11.000.532,C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP\Normal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 20:18:11.000.532,C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP\Normal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/05 20:18:26.000.535,C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP\Normal_project.dproj=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/07 18:20:19.511,=C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP\UTriangulo.pas</Transaction>
+    <Transaction>2022/10/07 18:28:02.542,C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP\UTriangulo.pas=</Transaction>
+    <Transaction>2022/10/07 18:28:47.393,=C:\Users\bcmsilva\Desktop\Bruno exercicios\OOP2\OOP\UTriangulo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
