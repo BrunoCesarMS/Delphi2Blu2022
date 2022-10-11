@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/10/10 20:15:48.130,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 20:17:06.051,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/10 20:17:40.671,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\ContaCorrente.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/10 20:18:00.150,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\Ufrm_principal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/10 20:18:00.150,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\Ufrm_principal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 20:18:18.695,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\ContaCorrente_project.dproj=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/10 21:46:56.146,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\UContaCorrente.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\Conta Corrente\ContaCorrente.pas</Transaction>
+  </Transactions>
+</BorlandProject>
