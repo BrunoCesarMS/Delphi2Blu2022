@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/10/17 18:45:40.153,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 18:45:49.311,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/17 18:46:46.745,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Bomba de combustivel\UCombustivel.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/17 18:47:02.033,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Bomba de combustivel\frm_principal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/17 18:47:02.033,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Bomba de combustivel\frm_principal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 18:47:13.578,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Bomba de combustivel\Projeto_Combustivel.dproj=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
