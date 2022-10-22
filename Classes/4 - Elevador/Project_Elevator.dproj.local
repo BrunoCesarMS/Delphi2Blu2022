@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/10/19 20:59:09.562,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 20:59:55.063,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 21:00:23.837,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\Unit2.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 21:00:42.311,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UElevador.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/19 21:00:42.311,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UElevador.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:01:06.466,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\Unit2.pas=</Transaction>
+    <Transaction>2022/10/19 21:01:20.231,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UFrm_principal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UElevador.dfm</Transaction>
+    <Transaction>2022/10/19 21:01:20.231,C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UFrm_principal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UElevador.pas</Transaction>
+    <Transaction>2022/10/19 21:01:28.815,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:01:48.239,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\UElevador.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:01:51.309,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\UFrm_principal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UFrm_principal.pas</Transaction>
+    <Transaction>2022/10/19 21:01:51.309,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\UFrm_principal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\UFrm_principal.dfm</Transaction>
+    <Transaction>2022/10/19 21:02:00.763,C:\Users\bcmsilva\Documents\Delphi2Blu2022\Classes\4 - Elevador\Project_Elevator.dproj=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
