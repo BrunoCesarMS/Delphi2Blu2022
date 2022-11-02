@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/01 18:14:59.228,=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 18:17:05.816,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmPrincipal.pas=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 18:17:05.816,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmPrincipal.dfm=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/01 18:17:10.756,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Project1.dproj=C:\Users\bcmsilva\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/01 18:18:00.911,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit2.pas</Transaction>
+    <Transaction>2022/11/01 18:18:56.813,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmProdutos.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit2.dfm</Transaction>
+    <Transaction>2022/11/01 18:18:56.813,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmProdutos.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit2.pas</Transaction>
+    <Transaction>2022/11/01 18:19:06.750,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit3.pas</Transaction>
+    <Transaction>2022/11/01 18:19:30.003,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmCompradores.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit3.pas</Transaction>
+    <Transaction>2022/11/01 18:19:30.003,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmCompradores.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit3.dfm</Transaction>
+    <Transaction>2022/11/01 18:19:35.501,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit4.pas</Transaction>
+    <Transaction>2022/11/01 18:19:51.676,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmFornecedores.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit4.dfm</Transaction>
+    <Transaction>2022/11/01 18:19:51.676,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmFornecedores.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit4.pas</Transaction>
+    <Transaction>2022/11/01 18:19:58.976,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit5.pas</Transaction>
+    <Transaction>2022/11/01 18:20:20.797,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit6.pas</Transaction>
+    <Transaction>2022/11/01 18:20:50.754,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmUnidadeMedida.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit6.dfm</Transaction>
+    <Transaction>2022/11/01 18:20:50.754,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmUnidadeMedida.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit6.pas</Transaction>
+    <Transaction>2022/11/01 18:21:07.583,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmPedidos.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit5.pas</Transaction>
+    <Transaction>2022/11/01 18:21:07.583,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UfrmPedidos.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit5.dfm</Transaction>
+    <Transaction>2022/11/01 18:43:40.025,=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 18:43:56.781,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UdmPedidos.dfm=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2022/11/01 18:43:56.781,C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\UdmPedidos.pas=C:\Users\bcmsilva\Documents\Delphi2Blu2022\MySQL\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
