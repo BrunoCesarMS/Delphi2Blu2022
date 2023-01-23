@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/12 21:34:13.000.884,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:35:26.000.707,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mysql\Desktop\Sakilla\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/12 21:35:26.000.707,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mysql\Desktop\Sakilla\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/12 21:35:33.000.803,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mysql\Desktop\Sakilla\Sakilla.dproj</Transaction>
+    <Transaction>2023/01/12 21:38:09.000.560,=C:\Users\mysql\Desktop\Sakilla\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:38:55.000.525,C:\Users\mysql\Desktop\Sakilla\Unit1.dfm=C:\Users\mysql\Desktop\Sakilla\UdmSakilla.dfm</Transaction>
+    <Transaction>2023/01/12 21:38:55.000.525,C:\Users\mysql\Desktop\Sakilla\Unit1.pas=C:\Users\mysql\Desktop\Sakilla\UdmSakilla.pas</Transaction>
+    <Transaction>2023/01/13 18:22:41.000.910,=C:\Users\mysql\Desktop\Sakila\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 18:23:02.000.547,C:\Users\mysql\Desktop\Sakila\UfrmRelAtor.dfm=C:\Users\mysql\Desktop\Sakila\Unit2.dfm</Transaction>
+    <Transaction>2023/01/13 18:23:02.000.547,C:\Users\mysql\Desktop\Sakila\UfrmRelAtor.pas=C:\Users\mysql\Desktop\Sakila\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 19:06:22.000.036,=C:\Users\mysql\Desktop\Sakila\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 19:09:31.000.794,C:\Users\mysql\Desktop\Sakila\UfrmRelCidade.pas=C:\Users\mysql\Desktop\Sakila\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 19:09:31.000.795,C:\Users\mysql\Desktop\Sakila\UfrmRelCidade.dfm=C:\Users\mysql\Desktop\Sakila\Unit2.dfm</Transaction>
+    <Transaction>2023/01/13 21:04:31.000.948,=C:\Users\mysql\Desktop\Sakila\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 21:05:25.000.980,C:\Users\mysql\Desktop\Sakila\Unit2.dfm=C:\Users\mysql\Desktop\Sakila\UfrmRelFilmes.dfm</Transaction>
+    <Transaction>2023/01/13 21:05:25.000.980,C:\Users\mysql\Desktop\Sakila\Unit2.pas=C:\Users\mysql\Desktop\Sakila\UfrmRelFilmes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
