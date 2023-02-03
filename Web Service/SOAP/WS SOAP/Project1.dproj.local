@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/20 20:52:13.000.875,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 19:28:27.769,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:28:39.540,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:29:21.734,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/02/01 19:29:22.388,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/02/01 19:30:19.902,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\Hello_WorldIntf.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/02/01 19:30:22.518,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\Hello_WorldImpl.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/02/01 19:30:24.079,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\FormUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:30:24.079,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\FormUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 19:30:25.305,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\WebModuleUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 19:30:25.305,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\WebModuleUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:30:26.566,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP\Project1.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

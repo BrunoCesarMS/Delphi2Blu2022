@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/20 20:52:13.000.875,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 20:12:52.000.626,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 18:32:41.460,C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\Project1.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/03 18:33:30.503,=C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 18:35:42.038,C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\UICalculadora.pas=C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 18:36:02.061,=C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 18:38:59.293,C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\UCalculadora.pas=C:\Users\mysql\Documents\Web Service\REST\WS REST CALCULADORA\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

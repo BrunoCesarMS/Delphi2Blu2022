@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/20 20:52:13.000.875,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 20:12:52.000.626,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 20:14:11.052,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:14:11.930,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:14:28.070,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraImpl.pas</Transaction>
+    <Transaction>2023/02/01 20:14:28.405,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraIntf.pas</Transaction>
+    <Transaction>2023/02/01 20:15:27.282,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\CalculadoraIntf.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraIntf.pas</Transaction>
+    <Transaction>2023/02/01 20:15:28.359,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\CalculadoraImpl.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraImpl.pas</Transaction>
+    <Transaction>2023/02/01 20:15:28.899,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\FormUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:15:28.899,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\FormUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 20:15:31.714,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\WebModuleUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:15:31.714,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\WebModuleUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 20:15:32.986,C:\Users\mysql\Documents\Web Service\SOAP\WS SOAP CALCULADORA\Project1.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
