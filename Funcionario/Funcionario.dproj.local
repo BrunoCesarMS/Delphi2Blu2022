@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/12 16:35:40.000.353,=C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 16:42:04.000.519,=C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/02/12 16:43:56.000.543,C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Novo\Desktop\Funcionario\Classes\UFuncionario.pas</Transaction>
+    <Transaction>2023/02/12 16:44:08.000.290,C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Novo\Desktop\Funcionario\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/02/12 16:44:08.000.290,C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Novo\Desktop\Funcionario\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/02/12 16:44:17.000.956,C:\Users\Novo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Novo\Desktop\Funcionario\Funcionario.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
